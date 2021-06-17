@@ -6,7 +6,7 @@
 
 You can now add pairs you would like to use on your own. There is now a file called trading_pairs.txt. Simply locate the pair you want to use and add it as a new line.
 
-Example: You can use the <a href="https://help.coinbase.com/en/pro/trading-and-funding/cryptocurrency-trading-pairs/locations-and-trading-pairs">GDAX Pairs</a> list to locate the pairs you wish to use. <i>Example: DOGE/USD. Note: The / (Slash) would be replaced with a - (Dash).</i>
+You can use the <a href="https://help.coinbase.com/en/pro/trading-and-funding/cryptocurrency-trading-pairs/locations-and-trading-pairs">GDAX Pairs</a> list to locate the pairs you wish to use. <i>Example: DOGE/USD. Note: The / (Slash) would be replaced with a - (Dash).</i>
 
 >  DOGE-USD
 
